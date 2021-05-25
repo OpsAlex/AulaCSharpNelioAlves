@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using EstudandoExccoesPersonalizadas.Entities.Exceptions;
 
 namespace EstudandoExccoesPersonalizadas.Entities
 {
@@ -17,6 +18,11 @@ namespace EstudandoExccoesPersonalizadas.Entities
 
         public Reservation(int roomNumber, DateTime checkIn, DateTime checkOut)
         {
+            if (checkOut <= checkIn)
+            {
+                throw new DomainExecption("Check -out date must be after check -in date");
+            }
+
             RoomNumber = roomNumber;
             CheckIn = checkIn;
             CheckOut = checkOut;
@@ -28,23 +34,21 @@ namespace EstudandoExccoesPersonalizadas.Entities
             return (int)duration.TotalDays;
         }
 
-        public string UpdateDates (DateTime checkIn, DateTime checkOut)
+        public void UpdateDates (DateTime checkIn, DateTime checkOut)
         {
             DateTime now = DateTime.Now;
 
             if (checkIn < now || checkOut < now)
             {
-                return "Erro in reservation: Reservation dates for update must be future dates";
+                throw new DomainExecption("Reservation dates for update must be future dates");
             }
             if (checkOut <= checkIn)
             {
-                return "Error in reservation: Check -out date must be after check -in date";
+                throw new DomainExecption("Check -out date must be after check -in date");
             }
 
             CheckIn = checkIn;
             CheckOut = checkOut;
-
-            return null;
         }
 
         public override string ToString()
