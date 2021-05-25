@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jGSAC4fjkLBnFGYv2NpvBLiZnEXgvIksIQ3Mwnz4tAC+Vs99/AnHBRO57oKT1xGxkxO+DddOJVXsQYErSxzRYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexb\\Desktop\\Projetos C#\\EstudandoExccoesPersonalizadas\\EstudandoExccoesPersonalizadas\\EstudandoExccoesPersonalizadas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

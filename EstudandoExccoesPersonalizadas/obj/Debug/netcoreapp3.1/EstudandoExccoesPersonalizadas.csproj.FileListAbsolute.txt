@@ -1,0 +1,13 @@
+C:\Users\alexb\Desktop\Projetos C#\EstudandoExccoesPersonalizadas\EstudandoExccoesPersonalizadas\bin\Debug\netcoreapp3.1\EstudandoExccoesPersonalizadas.exe
+C:\Users\alexb\Desktop\Projetos C#\EstudandoExccoesPersonalizadas\EstudandoExccoesPersonalizadas\bin\Debug\netcoreapp3.1\EstudandoExccoesPersonalizadas.deps.json
+C:\Users\alexb\Desktop\Projetos C#\EstudandoExccoesPersonalizadas\EstudandoExccoesPersonalizadas\bin\Debug\netcoreapp3.1\EstudandoExccoesPersonalizadas.runtimeconfig.json
+C:\Users\alexb\Desktop\Projetos C#\EstudandoExccoesPersonalizadas\EstudandoExccoesPersonalizadas\bin\Debug\netcoreapp3.1\EstudandoExccoesPersonalizadas.runtimeconfig.dev.json
+C:\Users\alexb\Desktop\Projetos C#\EstudandoExccoesPersonalizadas\EstudandoExccoesPersonalizadas\bin\Debug\netcoreapp3.1\EstudandoExccoesPersonalizadas.dll
+C:\Users\alexb\Desktop\Projetos C#\EstudandoExccoesPersonalizadas\EstudandoExccoesPersonalizadas\bin\Debug\netcoreapp3.1\EstudandoExccoesPersonalizadas.pdb
+C:\Users\alexb\Desktop\Projetos C#\EstudandoExccoesPersonalizadas\EstudandoExccoesPersonalizadas\obj\Debug\netcoreapp3.1\EstudandoExccoesPersonalizadas.csprojAssemblyReference.cache
+C:\Users\alexb\Desktop\Projetos C#\EstudandoExccoesPersonalizadas\EstudandoExccoesPersonalizadas\obj\Debug\netcoreapp3.1\EstudandoExccoesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\alexb\Desktop\Projetos C#\EstudandoExccoesPersonalizadas\EstudandoExccoesPersonalizadas\obj\Debug\netcoreapp3.1\EstudandoExccoesPersonalizadas.AssemblyInfo.cs
+C:\Users\alexb\Desktop\Projetos C#\EstudandoExccoesPersonalizadas\EstudandoExccoesPersonalizadas\obj\Debug\netcoreapp3.1\EstudandoExccoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Desktop\Projetos C#\EstudandoExccoesPersonalizadas\EstudandoExccoesPersonalizadas\obj\Debug\netcoreapp3.1\EstudandoExccoesPersonalizadas.dll
+C:\Users\alexb\Desktop\Projetos C#\EstudandoExccoesPersonalizadas\EstudandoExccoesPersonalizadas\obj\Debug\netcoreapp3.1\EstudandoExccoesPersonalizadas.pdb
+C:\Users\alexb\Desktop\Projetos C#\EstudandoExccoesPersonalizadas\EstudandoExccoesPersonalizadas\obj\Debug\netcoreapp3.1\EstudandoExccoesPersonalizadas.genruntimeconfig.cache
